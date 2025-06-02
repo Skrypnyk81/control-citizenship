@@ -1,4 +1,4 @@
-# Controllo Cittadinanza
+# Controllo Cittadinanza(con vecchia autenticazione, con SPID non fuziona)
 
 Questo script Python è stato creato per automatizzare il processo di controllo dello stato della pratica di cittadinanza italiana sul portale del Ministero dell'Interno. L'autore ha sviluppato questo strumento per evitare di dover navigare manualmente attraverso le varie pagine del sito.
 
